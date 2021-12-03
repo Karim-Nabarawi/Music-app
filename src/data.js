@@ -70,7 +70,7 @@ function chillHop() {
       name: "Main Theme",
       cover: "https://otakualcovecom.files.wordpress.com/2020/09/cover-w.png?w=1024",
       artist: "Genshin Impact",
-      audio: "https://drive.google.com/u/1/uc?id=1aFFCkca28biR8YkSnQcHQCVkpkDqwk3e&export=download",
+      audio: "https://drive.google.com/u/1/uc?id=10Og-NOkAd5d4aO8MT9_MJoFX3XWDhLiU&export=download",
       color: ["#342F48", "#C28398"],
       id: uuidv4(),
       active: false,
